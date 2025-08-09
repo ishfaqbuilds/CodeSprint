@@ -19,8 +19,8 @@ A minimal and efficient C++ snippet to kickstart competitive programming solutio
 
 ## Easy To Use
 
-1. Paste the template at the top of your solution file.  
-2. Write your problem-specific code inside the `solve()` function.  
+1. Paste the snippet at the top of the solution file.  
+2. Write the problem-specific code inside the `solve()` function.  
 3. Input the number of test cases; each case will be executed by `solve()` automatically.  
 4. Use the macros and typedefs to write code faster and cleaner.
 
