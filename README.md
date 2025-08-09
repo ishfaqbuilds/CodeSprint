@@ -1,8 +1,8 @@
-# Competitive Programming Template
+# Competitive Programming Weapon
 
-A minimal and efficient C++ template to kickstart competitive programming solutions quickly.
+A minimal and efficient C++ snippet to kickstart competitive programming solutions quickly.
 
-## Features
+## Less Hastle
 
 - Commonly used headers included (`iostream`, `vector`, `algorithm`, `cmath`, etc.)  
 - Type aliases for shorter code (`ll` for `long long`, `vi` for `vector<int>`)  
@@ -17,7 +17,7 @@ A minimal and efficient C++ template to kickstart competitive programming soluti
 - Supports multiple test cases by running the `solve()` function repeatedly  
 - Clean, modular, and easy to extend
 
-## How To Use
+## Easy To Use
 
 1. Paste the template at the top of your solution file.  
 2. Write your problem-specific code inside the `solve()` function.  
@@ -26,4 +26,4 @@ A minimal and efficient C++ template to kickstart competitive programming soluti
 
 ---
 
-Happy coding! 🚀
+Conquer Competitive Programming!
